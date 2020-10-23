@@ -3,7 +3,7 @@ data sets for performance analyses of György Kurtág’s *Kafka-Fragmente* (198
 
 This repository introduces the data sets created during research on recorded performances of György Kurtág’s *Kafka-Fragmente* (1985–87). It complements the following three articles:
 
-Utz, Christian (2020). “Kontinua aus Diskontinuitäten. Dimensionen der performativen Form in Interpretationen von György Kurtágs Kafka-Fragmenten.” In *György Kurtág* (Musik-Konzepte Sonderband), ed. by Ulrich Tadday. Munich: edition text + kritik, 211–254. 
+Utz, Christian (2020). “Kontinua aus Diskontinuitäten. Dimensionen der performativen Form in Interpretationen von György Kurtágs *Kafka-Fragmenten*.” In *György Kurtág* (Musik-Konzepte Sonderband), ed. by Ulrich Tadday. Munich: edition text + kritik, 211–254. 
 
 Motavasseli, Majid (2020). “‘Ein Kaleidoskop im klassischen Rahmen.’ Zum Zyklusproblem in György Kurtágs *Kafka-Fragmenten*.” In *György Kurtág* (Musik-Konzepte Sonderband), ed. by Ulrich Tadday. Munich: edition text + kritik, 255–278. 
 
